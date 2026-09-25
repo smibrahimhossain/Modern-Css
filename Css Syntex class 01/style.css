@@ -1,0 +1,26 @@
+
+
+
+/* 
+selector {
+  property: value; //declaration
+  
+} 
+  
+
+
+*/
+
+h1{
+    color: red;
+    font-size: 450%;
+
+}
+h2{
+    color:forestgreen;
+}
+
+p{
+    font-size: 30px;
+}
+
